@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
 import 'package:web_socket_channel/web_socket_channel.dart';
-
+//recall this package will only run for mobile applications only
+//for chrome applications it will not work
+// import 'package:web_socket_channel/io.dart';
 import 'package:web_socket_channel/io.dart';
 
 void main() {
